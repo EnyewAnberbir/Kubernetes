@@ -5,6 +5,9 @@ metadata:
   labels:
     app: mywebapp
     tier: frontend
+  annotations:
+    submitted-by: enyew-anberbir-ugr9324
+    author: "Enyew Anberbir - UGR/9324/12"
 spec:
   replicas: 1
   selector:

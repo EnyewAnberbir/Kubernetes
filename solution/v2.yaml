@@ -4,6 +4,9 @@ metadata:
   name: mywebapp
   labels:
     app: mywebapp
+  annotations:
+    submitted-by: enyew-anberbir-ugr9324
+    author: "Enyew Anberbir - UGR/9324/12"
 spec:
   ports:
   - port: 80
