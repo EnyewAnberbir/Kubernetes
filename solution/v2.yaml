@@ -17,7 +17,7 @@ spec:
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: mydeployment
+  name: enyew
   labels:
     app: mywebapp
 spec:
